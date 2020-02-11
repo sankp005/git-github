@@ -1,2 +1,2 @@
 # git-github
-This is gor tutorial purpose .
+This is for tutorial purpose .
